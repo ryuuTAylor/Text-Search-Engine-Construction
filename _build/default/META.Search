@@ -1,0 +1,6 @@
+description = ""
+requires = "str unix"
+archive(byte) = "search.cma"
+archive(native) = "search.cmxa"
+plugin(byte) = "search.cma"
+plugin(native) = "search.cmxs"

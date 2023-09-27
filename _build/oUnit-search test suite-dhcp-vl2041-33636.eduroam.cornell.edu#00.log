@@ -1,0 +1,881 @@
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Runner: processes
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Chooser: simple
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration suite_name = "search test suite"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration cache_filename = "/Users/taylortianluwang/Documents/CS3110/a3/_build/oUnit-$(suite_name).cache"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration run_gc_full_major = "true"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration display = "true"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration results_style_1_X = "false"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration testdata_dir = "/Users/taylortianluwang/Documents/CS3110/a3/data"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration health_check_interval = "1."
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration verbose = "false"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration chooser = "simple"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration output_html_dir = "none"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration processes_kill_period = "5."
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration runner = "processes"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration shards = "2"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration processes_grace_period = "5."
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration log_encoding = "utf-8"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration output_junit_file = "none"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration ci = "false"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Configuration output_file = "/Users/taylortianluwang/Documents/CS3110/a3/_build/oUnit-$(suite_name)-$(shard_id).log"
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Using 2 workers maximum.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Starting worker number dhcp-vl2041-33636.eduroam.cornell.edu#01.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-33636.eduroam.cornell.edu#01 started.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Starting worker number dhcp-vl2041-33636.eduroam.cornell.edu#02.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-33636.eduroam.cornell.edu#02 started.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:to_list test SI, search test suite:0:to_list test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:0:to_list test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:to_list test SI, search test suite:0:to_list test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:1:to_list test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:to_list test SI, search test suite:0:to_list test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:0:to_list test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:1:to_list test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:to_list test SI, search test suite:0:to_list test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:0:to_list test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:1:to_list test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:to_list test SI, search test suite:0:to_list test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:to_string test SI, search test suite:2:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:2:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:to_string test SI, search test suite:2:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:3:to_string test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:to_string test SI, search test suite:2:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:2:to_string test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:to_string test SI, search test suite:2:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:2:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:3:to_string test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:to_string test SI, search test suite:2:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:3:to_string test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:4:is empty test II, search test suite:3:to_string test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:4:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:5:is empty test SI, search test suite:4:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:5:is empty test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:5:is empty test SI, search test suite:4:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:4:is empty test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:5:is empty test SI, search test suite:4:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:4:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:5:is empty test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:5:is empty test SI, search test suite:4:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:5:is empty test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:6:size test II, search test suite:5:is empty test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:6:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:7:size test SI, search test suite:6:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:7:size test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:7:size test SI, search test suite:6:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:7:size test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:7:size test SI, search test suite:6:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:7:size test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:7:size test SI, search test suite:6:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:8:insert test II 1, search test suite:6:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:8:insert test II 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:8:insert test II 1, search test suite:6:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:6:size test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:8:insert test II 1, search test suite:6:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:6:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:8:insert test II 1, search test suite:6:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:9:insert test SI 1, search test suite:8:insert test II 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:9:insert test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:9:insert test SI 1, search test suite:8:insert test II 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:8:insert test II 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:9:insert test SI 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:9:insert test SI 1, search test suite:8:insert test II 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:8:insert test II 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:9:insert test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:9:insert test SI 1, search test suite:8:insert test II 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:11:insert test SI 2, search test suite:10:insert test II 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:10:insert test II 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:11:insert test SI 2, search test suite:10:insert test II 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:11:insert test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:11:insert test SI 2, search test suite:10:insert test II 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:10:insert test II 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:11:insert test SI 2, search test suite:10:insert test II 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:10:insert test II 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:11:insert test SI 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:11:insert test SI 2, search test suite:10:insert test II 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:11:insert test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:12:insert test II 3, search test suite:11:insert test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:13:insert test SI 3, search test suite:12:insert test II 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:12:insert test II 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:13:insert test SI 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:13:insert test SI 3, search test suite:12:insert test II 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:12:insert test II 3 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:13:insert test SI 3 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:13:insert test SI 3, search test suite:12:insert test II 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:12:insert test II 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:13:insert test SI 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:13:insert test SI 3, search test suite:12:insert test II 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:15:insert test SI 4, search test suite:14:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:14:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:15:insert test SI 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:15:insert test SI 4, search test suite:14:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:15:insert test SI 4 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:15:insert test SI 4, search test suite:14:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:15:insert test SI 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:15:insert test SI 4, search test suite:14:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:16:remove test II, search test suite:14:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:16:remove test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:16:remove test II, search test suite:14:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:14:insert test II 4 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:16:remove test II, search test suite:14:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:14:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:16:remove test II, search test suite:14:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:17:remove test SI, search test suite:16:remove test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:17:remove test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:17:remove test SI, search test suite:16:remove test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:16:remove test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:17:remove test SI, search test suite:16:remove test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:16:remove test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:17:remove test SI, search test suite:16:remove test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:18:find test II, search test suite:17:remove test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:18:find test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:18:find test II, search test suite:17:remove test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:17:remove test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:18:find test II, search test suite:17:remove test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:17:remove test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:18:find test II, search test suite:17:remove test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:19:find test SI, search test suite:18:find test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:19:find test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:19:find test SI, search test suite:18:find test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:18:find test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:19:find test SI, search test suite:18:find test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:18:find test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:19:find test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:19:find test SI, search test suite:18:find test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:19:find test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:20:member test II, search test suite:19:find test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:21:member test SI 1, search test suite:20:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:21:member test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:21:member test SI 1, search test suite:20:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:20:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:21:member test SI 1, search test suite:20:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:21:member test SI 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:21:member test SI 1, search test suite:20:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:21:member test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:21:member test SI 1, search test suite:20:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:22:member test SI 2, search test suite:20:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:22:member test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:22:member test SI 2, search test suite:20:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:20:member test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:22:member test SI 2, search test suite:20:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:20:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:22:member test SI 2, search test suite:20:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:23:fold test II, search test suite:22:member test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:23:fold test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:23:fold test II, search test suite:22:member test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:22:member test SI 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:23:fold test II, search test suite:22:member test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:22:member test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:23:fold test II, search test suite:22:member test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:24:fold test SI, search test suite:23:fold test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:24:fold test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:24:fold test SI, search test suite:23:fold test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:23:fold test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:24:fold test SI, search test suite:23:fold test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:23:fold test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:24:fold test SI, search test suite:23:fold test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:25:to_list test IntSet, search test suite:24:fold test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:25:to_list test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:25:to_list test IntSet, search test suite:24:fold test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:24:fold test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:25:to_list test IntSet, search test suite:24:fold test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:24:fold test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:25:to_list test IntSet, search test suite:24:fold test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:26:to_string test IntSet, search test suite:25:to_list test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:26:to_string test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:26:to_string test IntSet, search test suite:25:to_list test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:25:to_list test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:26:to_string test IntSet, search test suite:25:to_list test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:25:to_list test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:26:to_string test IntSet, search test suite:25:to_list test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:27:is_empty test IntSet, search test suite:26:to_string test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:27:is_empty test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:27:is_empty test IntSet, search test suite:26:to_string test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:26:to_string test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:27:is_empty test IntSet, search test suite:26:to_string test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:26:to_string test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:27:is_empty test IntSet, search test suite:26:to_string test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:28:size test IntSet, search test suite:27:is_empty test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:28:size test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:28:size test IntSet, search test suite:27:is_empty test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:27:is_empty test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:28:size test IntSet, search test suite:27:is_empty test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:27:is_empty test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:28:size test IntSet, search test suite:27:is_empty test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:29:insert test IntSet 1, search test suite:28:size test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:29:insert test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:29:insert test IntSet 1, search test suite:28:size test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:28:size test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:29:insert test IntSet 1, search test suite:28:size test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:28:size test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:29:insert test IntSet 1, search test suite:28:size test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:30:insert test IntSet 2, search test suite:29:insert test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:30:insert test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:30:insert test IntSet 2, search test suite:29:insert test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:29:insert test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:30:insert test IntSet 2, search test suite:29:insert test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:29:insert test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:30:insert test IntSet 2, search test suite:29:insert test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:31:insert test IntSet 3, search test suite:30:insert test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:31:insert test IntSet 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:31:insert test IntSet 3, search test suite:30:insert test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:30:insert test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:31:insert test IntSet 3, search test suite:30:insert test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:30:insert test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:31:insert test IntSet 3, search test suite:30:insert test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:32:insert test IntSet 4, search test suite:31:insert test IntSet 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:32:insert test IntSet 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:32:insert test IntSet 4, search test suite:31:insert test IntSet 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:31:insert test IntSet 3 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:32:insert test IntSet 4, search test suite:31:insert test IntSet 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:31:insert test IntSet 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:32:insert test IntSet 4, search test suite:31:insert test IntSet 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:33:member test IntSet 1, search test suite:32:insert test IntSet 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:33:member test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:33:member test IntSet 1, search test suite:32:insert test IntSet 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:32:insert test IntSet 4 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:33:member test IntSet 1, search test suite:32:insert test IntSet 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:32:insert test IntSet 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:33:member test IntSet 1, search test suite:32:insert test IntSet 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:34:member test IntSet 2, search test suite:33:member test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:34:member test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:34:member test IntSet 2, search test suite:33:member test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:33:member test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:34:member test IntSet 2, search test suite:33:member test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:33:member test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:34:member test IntSet 2, search test suite:33:member test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:35:remove test IntSet 1, search test suite:34:member test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:35:remove test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:35:remove test IntSet 1, search test suite:34:member test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:34:member test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:35:remove test IntSet 1, search test suite:34:member test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:34:member test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:35:remove test IntSet 1, search test suite:34:member test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:36:remove test IntSet 2, search test suite:35:remove test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:36:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:36:remove test IntSet 2, search test suite:35:remove test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:35:remove test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:36:remove test IntSet 2, search test suite:35:remove test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:35:remove test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:36:remove test IntSet 2, search test suite:35:remove test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:37:fold test IntSet 1, search test suite:36:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:37:fold test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:37:fold test IntSet 1, search test suite:36:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:36:remove test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:37:fold test IntSet 1, search test suite:36:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:36:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:37:fold test IntSet 1, search test suite:36:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:38:fold test IntSet 2, search test suite:37:fold test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:38:fold test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:38:fold test IntSet 2, search test suite:37:fold test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:37:fold test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:38:fold test IntSet 2, search test suite:37:fold test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:37:fold test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:38:fold test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:38:fold test IntSet 2, search test suite:37:fold test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:38:fold test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:39:union test IntSet 1, search test suite:38:fold test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:40:union test IntSet 2, search test suite:39:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:39:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:40:union test IntSet 2, search test suite:39:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:40:union test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:40:union test IntSet 2, search test suite:39:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:40:union test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:40:union test IntSet 2, search test suite:39:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:39:union test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:40:union test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:40:union test IntSet 2, search test suite:39:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:39:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:41:intersect test IntSet 1, search test suite:39:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:41:intersect test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:42:intersect test IntSet 2, search test suite:41:intersect test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:42:intersect test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:42:intersect test IntSet 2, search test suite:41:intersect test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:41:intersect test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:42:intersect test IntSet 2, search test suite:41:intersect test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:41:intersect test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:42:intersect test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:42:intersect test IntSet 2, search test suite:41:intersect test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:42:intersect test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:43:difference test IntSet 1, search test suite:42:intersect test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:44:difference test IntSet 2, search test suite:43:difference test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:43:difference test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:44:difference test IntSet 2, search test suite:43:difference test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:44:difference test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:44:difference test IntSet 2, search test suite:43:difference test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:43:difference test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:44:difference test IntSet 2, search test suite:43:difference test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:43:difference test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:44:difference test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:44:difference test IntSet 2, search test suite:43:difference test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:44:difference test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:45:to_string test for TreeDictionary Exclusive 1, search test suite:44:difference test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:46:to_string test for TreeDictionary Exclusive 2, search test suite:45:to_string test for TreeDictionary Exclusive 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:45:to_string test for TreeDictionary Exclusive 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:46:to_string test for TreeDictionary Exclusive 2, search test suite:45:to_string test for TreeDictionary Exclusive 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:46:to_string test for TreeDictionary Exclusive 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:46:to_string test for TreeDictionary Exclusive 2, search test suite:45:to_string test for TreeDictionary Exclusive 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:45:to_string test for TreeDictionary Exclusive 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:46:to_string test for TreeDictionary Exclusive 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:46:to_string test for TreeDictionary Exclusive 2, search test suite:45:to_string test for TreeDictionary Exclusive 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:45:to_string test for TreeDictionary Exclusive 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:46:to_string test for TreeDictionary Exclusive 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:46:to_string test for TreeDictionary Exclusive 2, search test suite:45:to_string test for TreeDictionary Exclusive 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:48:to_list test SI, search test suite:47:to_list test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:47:to_list test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:48:to_list test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:48:to_list test SI, search test suite:47:to_list test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:47:to_list test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:48:to_list test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:48:to_list test SI, search test suite:47:to_list test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:47:to_list test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:48:to_list test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:48:to_list test SI, search test suite:47:to_list test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:50:to_string test SI, search test suite:49:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:49:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:50:to_string test SI, search test suite:49:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:50:to_string test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:50:to_string test SI, search test suite:49:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:49:to_string test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:50:to_string test SI, search test suite:49:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:49:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:50:to_string test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:50:to_string test SI, search test suite:49:to_string test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:50:to_string test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:51:is empty test II, search test suite:50:to_string test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:52:is empty test SI, search test suite:51:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:51:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:52:is empty test SI, search test suite:51:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:52:is empty test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:52:is empty test SI, search test suite:51:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:52:is empty test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:52:is empty test SI, search test suite:51:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:51:is empty test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:52:is empty test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:52:is empty test SI, search test suite:51:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:51:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:53:size test II, search test suite:51:is empty test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:54:size test SI, search test suite:53:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:53:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:54:size test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:54:size test SI, search test suite:53:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:54:size test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:54:size test SI, search test suite:53:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:54:size test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:54:size test SI, search test suite:53:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:53:size test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:55:insert test II 1, search test suite:53:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:53:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:55:insert test II 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:55:insert test II 1, search test suite:53:size test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:56:insert test SI 1, search test suite:55:insert test II 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:56:insert test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:56:insert test SI 1, search test suite:55:insert test II 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:55:insert test II 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:56:insert test SI 1, search test suite:55:insert test II 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:55:insert test II 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:56:insert test SI 1, search test suite:55:insert test II 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:57:insert test II 2, search test suite:56:insert test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:57:insert test II 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:57:insert test II 2, search test suite:56:insert test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:56:insert test SI 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:57:insert test II 2, search test suite:56:insert test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:56:insert test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:57:insert test II 2, search test suite:56:insert test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:58:insert test SI 2, search test suite:57:insert test II 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:58:insert test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:58:insert test SI 2, search test suite:57:insert test II 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:57:insert test II 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:58:insert test SI 2, search test suite:57:insert test II 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:57:insert test II 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:58:insert test SI 2, search test suite:57:insert test II 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:59:insert test II 3, search test suite:58:insert test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:59:insert test II 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:59:insert test II 3, search test suite:58:insert test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:58:insert test SI 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:59:insert test II 3, search test suite:58:insert test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:58:insert test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:59:insert test II 3, search test suite:58:insert test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:60:insert test SI 3, search test suite:59:insert test II 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:60:insert test SI 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:60:insert test SI 3, search test suite:59:insert test II 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:59:insert test II 3 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:60:insert test SI 3, search test suite:59:insert test II 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:59:insert test II 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:60:insert test SI 3, search test suite:59:insert test II 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:61:insert test II 4, search test suite:60:insert test SI 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:61:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:61:insert test II 4, search test suite:60:insert test SI 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:60:insert test SI 3 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:61:insert test II 4, search test suite:60:insert test SI 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:60:insert test SI 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:61:insert test II 4, search test suite:60:insert test SI 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:62:insert test SI 4, search test suite:61:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:62:insert test SI 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:62:insert test SI 4, search test suite:61:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:61:insert test II 4 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:62:insert test SI 4, search test suite:61:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:61:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:62:insert test SI 4, search test suite:61:insert test II 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:63:remove test II, search test suite:62:insert test SI 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:63:remove test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:63:remove test II, search test suite:62:insert test SI 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:62:insert test SI 4 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:63:remove test II, search test suite:62:insert test SI 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:62:insert test SI 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:63:remove test II, search test suite:62:insert test SI 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:64:remove test SI, search test suite:63:remove test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:64:remove test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:64:remove test SI, search test suite:63:remove test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:63:remove test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:64:remove test SI, search test suite:63:remove test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:63:remove test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:64:remove test SI, search test suite:63:remove test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:65:find test II, search test suite:64:remove test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:65:find test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:65:find test II, search test suite:64:remove test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:64:remove test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:65:find test II, search test suite:64:remove test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:64:remove test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:65:find test II, search test suite:64:remove test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:66:find test SI, search test suite:65:find test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:66:find test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:66:find test SI, search test suite:65:find test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:65:find test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:66:find test SI, search test suite:65:find test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:65:find test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:66:find test SI, search test suite:65:find test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:67:member test II, search test suite:66:find test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:67:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:67:member test II, search test suite:66:find test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:66:find test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:67:member test II, search test suite:66:find test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:66:find test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:67:member test II, search test suite:66:find test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:68:member test SI 1, search test suite:67:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:68:member test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:68:member test SI 1, search test suite:67:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:67:member test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:68:member test SI 1, search test suite:67:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:67:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:68:member test SI 1, search test suite:67:member test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:69:member test SI 2, search test suite:68:member test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:69:member test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:69:member test SI 2, search test suite:68:member test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:68:member test SI 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:69:member test SI 2, search test suite:68:member test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:68:member test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:69:member test SI 2, search test suite:68:member test SI 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:70:fold test II, search test suite:69:member test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:70:fold test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:70:fold test II, search test suite:69:member test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:69:member test SI 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:70:fold test II, search test suite:69:member test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:69:member test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:70:fold test II, search test suite:69:member test SI 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:71:fold test SI, search test suite:70:fold test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:71:fold test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:71:fold test SI, search test suite:70:fold test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:70:fold test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:71:fold test SI, search test suite:70:fold test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:70:fold test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:71:fold test SI, search test suite:70:fold test II.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:72:to_list test IntSet, search test suite:71:fold test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:72:to_list test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:72:to_list test IntSet, search test suite:71:fold test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:71:fold test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:72:to_list test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:72:to_list test IntSet, search test suite:71:fold test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:71:fold test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:72:to_list test IntSet, search test suite:71:fold test SI.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:73:to_string test IntSet, search test suite:72:to_list test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:72:to_list test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:73:to_string test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:73:to_string test IntSet, search test suite:72:to_list test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:74:is_empty test IntSet, search test suite:73:to_string test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:74:is_empty test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:74:is_empty test IntSet, search test suite:73:to_string test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:73:to_string test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:74:is_empty test IntSet, search test suite:73:to_string test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:73:to_string test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:74:is_empty test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:74:is_empty test IntSet, search test suite:73:to_string test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:74:is_empty test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:75:size test IntSet, search test suite:74:is_empty test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:75:size test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:76:insert test IntSet 1, search test suite:75:size test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:76:insert test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:76:insert test IntSet 1, search test suite:75:size test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:75:size test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:76:insert test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:76:insert test IntSet 1, search test suite:75:size test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:75:size test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:76:insert test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:76:insert test IntSet 1, search test suite:75:size test IntSet.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:78:insert test IntSet 3, search test suite:77:insert test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:77:insert test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:78:insert test IntSet 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:78:insert test IntSet 3, search test suite:77:insert test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:77:insert test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:78:insert test IntSet 3 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:78:insert test IntSet 3, search test suite:77:insert test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:77:insert test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:78:insert test IntSet 3.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:78:insert test IntSet 3, search test suite:77:insert test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:80:member test IntSet 1, search test suite:79:insert test IntSet 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:80:member test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:80:member test IntSet 1, search test suite:79:insert test IntSet 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:79:insert test IntSet 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:80:member test IntSet 1, search test suite:79:insert test IntSet 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:79:insert test IntSet 4 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:80:member test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:80:member test IntSet 1, search test suite:79:insert test IntSet 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:79:insert test IntSet 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:80:member test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:80:member test IntSet 1, search test suite:79:insert test IntSet 4.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:82:remove test IntSet 1, search test suite:81:member test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:81:member test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:82:remove test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:82:remove test IntSet 1, search test suite:81:member test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:82:remove test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:82:remove test IntSet 1, search test suite:81:member test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:81:member test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:82:remove test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:82:remove test IntSet 1, search test suite:81:member test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:81:member test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:83:remove test IntSet 2, search test suite:81:member test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:84:fold test IntSet 1, search test suite:83:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:83:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:84:fold test IntSet 1, search test suite:83:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:84:fold test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:84:fold test IntSet 1, search test suite:83:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:84:fold test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:84:fold test IntSet 1, search test suite:83:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:83:remove test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:84:fold test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:84:fold test IntSet 1, search test suite:83:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:83:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:85:fold test IntSet 2, search test suite:83:remove test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:85:fold test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:86:union test IntSet 1, search test suite:85:fold test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:86:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:86:union test IntSet 1, search test suite:85:fold test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:85:fold test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:86:union test IntSet 1, search test suite:85:fold test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:85:fold test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:86:union test IntSet 1, search test suite:85:fold test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:87:union test IntSet 2, search test suite:86:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:87:union test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:87:union test IntSet 2, search test suite:86:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:86:union test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:87:union test IntSet 2, search test suite:86:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:86:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:87:union test IntSet 2, search test suite:86:union test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:88:intersect test IntSet 1, search test suite:87:union test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:88:intersect test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:88:intersect test IntSet 1, search test suite:87:union test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:87:union test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:88:intersect test IntSet 1, search test suite:87:union test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:87:union test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:88:intersect test IntSet 1, search test suite:87:union test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:89:intersect test IntSet 2, search test suite:88:intersect test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:89:intersect test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:89:intersect test IntSet 2, search test suite:88:intersect test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:88:intersect test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:89:intersect test IntSet 2, search test suite:88:intersect test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:88:intersect test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:89:intersect test IntSet 2, search test suite:88:intersect test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:90:difference test IntSet 1, search test suite:89:intersect test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:90:difference test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:90:difference test IntSet 1, search test suite:89:intersect test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:89:intersect test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:90:difference test IntSet 1, search test suite:89:intersect test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:89:intersect test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:90:difference test IntSet 1, search test suite:89:intersect test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:91:difference test IntSet 2, search test suite:90:difference test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:91:difference test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:91:difference test IntSet 2, search test suite:90:difference test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:90:difference test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:91:difference test IntSet 2, search test suite:90:difference test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:90:difference test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:91:difference test IntSet 2, search test suite:90:difference test IntSet 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:92:to_string test for TreeDictionary Exclusive 1, search test suite:91:difference test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:92:to_string test for TreeDictionary Exclusive 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:92:to_string test for TreeDictionary Exclusive 1, search test suite:91:difference test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:91:difference test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:92:to_string test for TreeDictionary Exclusive 1, search test suite:91:difference test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:91:difference test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:92:to_string test for TreeDictionary Exclusive 1, search test suite:91:difference test IntSet 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:93:to_string test for TreeDictionary Exclusive 2, search test suite:92:to_string test for TreeDictionary Exclusive 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:93:to_string test for TreeDictionary Exclusive 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:93:to_string test for TreeDictionary Exclusive 2, search test suite:92:to_string test for TreeDictionary Exclusive 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:92:to_string test for TreeDictionary Exclusive 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:93:to_string test for TreeDictionary Exclusive 2, search test suite:92:to_string test for TreeDictionary Exclusive 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:92:to_string test for TreeDictionary Exclusive 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:93:to_string test for TreeDictionary Exclusive 2, search test suite:92:to_string test for TreeDictionary Exclusive 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:94:to_list test for alice, search test suite:93:to_string test for TreeDictionary Exclusive 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:94:to_list test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:94:to_list test for alice, search test suite:93:to_string test for TreeDictionary Exclusive 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:93:to_string test for TreeDictionary Exclusive 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:94:to_list test for alice, search test suite:93:to_string test for TreeDictionary Exclusive 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:93:to_string test for TreeDictionary Exclusive 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:94:to_list test for alice, search test suite:93:to_string test for TreeDictionary Exclusive 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:95:to_list test for preamble, search test suite:94:to_list test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:95:to_list test for preamble.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:95:to_list test for preamble, search test suite:94:to_list test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:94:to_list test for alice is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:95:to_list test for preamble, search test suite:94:to_list test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:94:to_list test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:95:to_list test for preamble, search test suite:94:to_list test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:96:words test for preamble 1, search test suite:95:to_list test for preamble.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:96:words test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:96:words test for preamble 1, search test suite:95:to_list test for preamble.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:95:to_list test for preamble is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:96:words test for preamble 1, search test suite:95:to_list test for preamble.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:95:to_list test for preamble.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:96:words test for preamble 1, search test suite:95:to_list test for preamble.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:97:words test for preamble 2, search test suite:96:words test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:97:words test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:97:words test for preamble 2, search test suite:96:words test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:96:words test for preamble 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:97:words test for preamble 2, search test suite:96:words test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:96:words test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:97:words test for preamble 2, search test suite:96:words test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:98:and_not test for alice, search test suite:97:words test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:98:and_not test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:98:and_not test for alice, search test suite:97:words test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:97:words test for preamble 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:98:and_not test for alice, search test suite:97:words test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:97:words test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:98:and_not test for alice, search test suite:97:words test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:99:and_not test for preamble 1, search test suite:98:and_not test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:99:and_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:99:and_not test for preamble 1, search test suite:98:and_not test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:98:and_not test for alice is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:99:and_not test for preamble 1, search test suite:98:and_not test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:98:and_not test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:99:and_not test for preamble 1, search test suite:98:and_not test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:100:and_not test for preamble 2, search test suite:99:and_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:100:and_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:100:and_not test for preamble 2, search test suite:99:and_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:99:and_not test for preamble 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:100:and_not test for preamble 2, search test suite:99:and_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:99:and_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:100:and_not test for preamble 2, search test suite:99:and_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:101:or_not test for preamble 1, search test suite:100:and_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:101:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:101:or_not test for preamble 1, search test suite:100:and_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:100:and_not test for preamble 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:101:or_not test for preamble 1, search test suite:100:and_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:100:and_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:101:or_not test for preamble 1, search test suite:100:and_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:102:or_not test for preamble 2, search test suite:101:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:102:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:102:or_not test for preamble 2, search test suite:101:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:101:or_not test for preamble 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:102:or_not test for preamble 2, search test suite:101:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:101:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:102:or_not test for preamble 2, search test suite:101:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:103:to_list test for alice, search test suite:102:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:103:to_list test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:103:to_list test for alice, search test suite:102:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:102:or_not test for preamble 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:103:to_list test for alice, search test suite:102:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:102:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:103:to_list test for alice, search test suite:102:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:104:to_list test for preamble, search test suite:103:to_list test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:104:to_list test for preamble.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:104:to_list test for preamble, search test suite:103:to_list test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:103:to_list test for alice is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:104:to_list test for preamble, search test suite:103:to_list test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:103:to_list test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:104:to_list test for preamble, search test suite:103:to_list test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:105:words test for preamble 1, search test suite:104:to_list test for preamble.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:105:words test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:105:words test for preamble 1, search test suite:104:to_list test for preamble.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:104:to_list test for preamble is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:105:words test for preamble 1, search test suite:104:to_list test for preamble.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:104:to_list test for preamble.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:105:words test for preamble 1, search test suite:104:to_list test for preamble.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:106:words test for preamble 2, search test suite:105:words test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:106:words test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:106:words test for preamble 2, search test suite:105:words test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:105:words test for preamble 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:106:words test for preamble 2, search test suite:105:words test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:105:words test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:106:words test for preamble 2, search test suite:105:words test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:107:and_not test for alice, search test suite:106:words test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:107:and_not test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:107:and_not test for alice, search test suite:106:words test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:106:words test for preamble 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:107:and_not test for alice, search test suite:106:words test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:106:words test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:107:and_not test for alice, search test suite:106:words test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:108:and_not test for preamble 1, search test suite:107:and_not test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:108:and_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:108:and_not test for preamble 1, search test suite:107:and_not test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:107:and_not test for alice is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:108:and_not test for preamble 1, search test suite:107:and_not test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:107:and_not test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:108:and_not test for preamble 1, search test suite:107:and_not test for alice.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:109:and_not test for preamble 2, search test suite:108:and_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:109:and_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:109:and_not test for preamble 2, search test suite:108:and_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:108:and_not test for preamble 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:109:and_not test for preamble 2, search test suite:108:and_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:108:and_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:109:and_not test for preamble 2, search test suite:108:and_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:110:or_not test for preamble 1, search test suite:109:and_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Start test search test suite:110:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:110:or_not test for preamble 1, search test suite:109:and_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:109:and_not test for preamble 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:110:or_not test for preamble 1, search test suite:109:and_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:109:and_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:110:or_not test for preamble 1, search test suite:109:and_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Still 2 tests running : search test suite:111:or_not test for preamble 2, search test suite:110:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:111:or_not test for preamble 2, search test suite:110:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Start test search test suite:111:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Still 2 tests running : search test suite:111:or_not test for preamble 2, search test suite:110:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:111:or_not test for preamble 2, search test suite:110:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: Test search test suite:110:or_not test for preamble 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Still 2 tests running : search test suite:111:or_not test for preamble 2, search test suite:110:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:111:or_not test for preamble 2, search test suite:110:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#01 I: End test search test suite:110:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Still 2 tests running : search test suite:111:or_not test for preamble 2, search test suite:110:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 2 tests running: search test suite:111:or_not test for preamble 2, search test suite:110:or_not test for preamble 1.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Still 1 tests running : search test suite:111:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 1 tests running: search test suite:111:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: Test search test suite:111:or_not test for preamble 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Still 1 tests running : search test suite:111:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 1 tests running: search test suite:111:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#02 I: End test search test suite:111:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Still 1 tests running : search test suite:111:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 1 tests running: search test suite:111:or_not test for preamble 2.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: 0 tests running: .
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-33636.eduroam.cornell.edu#02 has ended.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-33636.eduroam.cornell.edu#01 died unexpectedly.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Used 2 worker during test execution.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Run 56 tests with shard dhcp-vl2041-33636.eduroam.cornell.edu#02.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Run 56 tests with shard dhcp-vl2041-33636.eduroam.cornell.edu#01.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Check health of shard dhcp-vl2041-33636.eduroam.cornell.edu#02, 1 times.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Check health of shard dhcp-vl2041-33636.eduroam.cornell.edu#01, 5 times.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: ==============
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Summary:
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:111:or_not test for preamble 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:110:or_not test for preamble 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:109:and_not test for preamble 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:108:and_not test for preamble 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:107:and_not test for alice is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:106:words test for preamble 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:105:words test for preamble 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:104:to_list test for preamble is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:103:to_list test for alice is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:102:or_not test for preamble 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:101:or_not test for preamble 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:100:and_not test for preamble 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:99:and_not test for preamble 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:98:and_not test for alice is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:97:words test for preamble 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:96:words test for preamble 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:95:to_list test for preamble is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:94:to_list test for alice is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:93:to_string test for TreeDictionary Exclusive 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:92:to_string test for TreeDictionary Exclusive 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:91:difference test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:90:difference test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:89:intersect test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:88:intersect test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:87:union test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:86:union test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:85:fold test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:83:remove test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:84:fold test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:81:member test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:82:remove test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:80:member test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:79:insert test IntSet 4 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:78:insert test IntSet 3 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:77:insert test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:76:insert test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:75:size test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:74:is_empty test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:73:to_string test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:72:to_list test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:71:fold test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:70:fold test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:69:member test SI 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:68:member test SI 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:67:member test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:66:find test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:65:find test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:64:remove test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:63:remove test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:62:insert test SI 4 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:61:insert test II 4 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:60:insert test SI 3 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:59:insert test II 3 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:58:insert test SI 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:57:insert test II 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:56:insert test SI 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:55:insert test II 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:53:size test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:54:size test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:51:is empty test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:52:is empty test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:50:to_string test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:49:to_string test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:48:to_list test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:47:to_list test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:46:to_string test for TreeDictionary Exclusive 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:45:to_string test for TreeDictionary Exclusive 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:44:difference test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:43:difference test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:42:intersect test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:41:intersect test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:39:union test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:40:union test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:38:fold test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:37:fold test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:36:remove test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:35:remove test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:34:member test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:33:member test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:32:insert test IntSet 4 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:31:insert test IntSet 3 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:30:insert test IntSet 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:29:insert test IntSet 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:28:size test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:27:is_empty test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:26:to_string test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:25:to_list test IntSet is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:24:fold test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:23:fold test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:22:member test SI 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:20:member test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:21:member test SI 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:19:find test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:18:find test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:17:remove test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:16:remove test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:14:insert test II 4 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:15:insert test SI 4 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:13:insert test SI 3 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:12:insert test II 3 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:11:insert test SI 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:10:insert test II 2 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:9:insert test SI 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:8:insert test II 1 is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:6:size test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:7:size test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:5:is empty test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:4:is empty test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:3:to_string test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:2:to_string test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:1:to_list test SI is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Test search test suite:0:to_list test II is successful.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Ran: 112 tests in: 0.20 seconds.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Cases: 112.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Tried: 112.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Errors: 0.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Failures: 0.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Skip: 0.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Todo: 0.
+2023-04-13T20:17:46+00:00 dhcp-vl2041-33636.eduroam.cornell.edu#00 I: Timeout: 0.
